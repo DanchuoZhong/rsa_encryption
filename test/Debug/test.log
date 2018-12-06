@@ -1,0 +1,15 @@
+﻿  源.c
+c:\users\74793\desktop\backup\c\test\test\源.c(79): warning C4013: “pow_mod”未定义；假设外部返回 int
+c:\users\74793\desktop\backup\c\test\test\源.c(282): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+c:\users\74793\desktop\backup\c\test\test\源.c(310): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+c:\users\74793\desktop\backup\c\test\test\源.c(448): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+c:\users\74793\desktop\backup\c\test\test\源.c(445): warning C4101: “j”: 未引用的局部变量
+c:\users\74793\desktop\backup\c\test\test\源.c(488): warning C4244: “=”: 从“unsigned short”转换到“unsigned char”，可能丢失数据
+c:\users\74793\desktop\backup\c\test\test\源.c(521): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\74793\desktop\backup\c\test\test\源.c(522): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+  test.vcxproj -> C:\Users\74793\Desktop\BackUp\C\test\Debug\test.exe
